@@ -1,7 +1,7 @@
 # Triangulo_Rectangulo_en_C
 
 Programa que permite formar un triangulo rectangulo con numeros, iniciando del 1 hasta n numeros.
-Ademas de respectar la sucesion de los numeros si se estuviera formando un rectangulo completo.
+Ademas de respectar la sucesion de los numeros como si se estuviera formando un rectangulo completo.
 
 Resultados:
 
